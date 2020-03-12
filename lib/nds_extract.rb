@@ -28,11 +28,6 @@ def directors_totals(nds)
    result
 end
 
-   
-   def gross_for_director(d)
-   
- end
- 
  def list_of_directors(source)
    director_index = 0
    director_list = Array.new
