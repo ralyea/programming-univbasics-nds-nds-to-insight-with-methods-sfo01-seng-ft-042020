@@ -22,10 +22,6 @@ def directors_totals(nds)
    result
 end
 
-def directors_totals(nds)
-   result = {}
-   
-  end
    
    def gross_for_director(d)
    total = 0
